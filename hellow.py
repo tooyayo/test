@@ -2,6 +2,7 @@
 # coding:utf-8
 
 import re
+from bs4 import BeautifulSoup
 
 text  = 'hello world'
 
